@@ -2,7 +2,7 @@ import { Container, Nav, Navbar } from "react-bootstrap";
 import Hamburguer from "../Componentes/Hamburguer";
 import Logo from "../Componentes/Logo";
 import SocialContainer from "../Componentes/SocialContainer";
-
+import "./index.css";
 
 function NavigationSection() {
   let arreglo = ["Home", "UX", "Graphic Design", "Web Development"];
